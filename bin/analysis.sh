@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# Some file
-echo "Analyzing"
+cat $1 | \
+  species --all | \
+  plot --violin --facet=species_name > \
+  plots/violin-by-species.png
