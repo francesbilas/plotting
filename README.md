@@ -2,5 +2,5 @@
 
 Contributors:
 
--   Frances Bilas
--   Jean Jennings
+-   Frances Bilas <frances@eniac.org>
+-   Jean Jennings <jj@eniac.org>
