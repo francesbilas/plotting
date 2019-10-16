@@ -3,4 +3,4 @@
 Contributors:
 
 -   Frances Bilas
--   Jean Jennings
+-   Jean Jennings <jj@eniac.org>
